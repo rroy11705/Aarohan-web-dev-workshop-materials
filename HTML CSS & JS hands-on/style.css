@@ -1,0 +1,48 @@
+h1, h2 {
+    color: blue;
+}
+
+#heading2 {
+    color: pink;
+}
+
+.heading4 {
+    color: magenta;
+}
+
+body {
+    background-color: coral;
+}
+
+div.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    /* flex-direction: row; */
+}
+
+div.box {
+    width: calc(33.33% - 14px);
+    background-color: darkmagenta;
+    /* width: 100px; */
+    height: 100px;
+    color: white;
+    /* padding: 16px; */
+    /* margin: 50px; */
+    /* margin: auto; */
+    /* border: 5px solid black; */
+}
+
+/* units */
+/* px */
+/* em = 16px */
+/* rem = 16px */
+/* vh, vw | 50vw = 50 % of the width of the viewport */
+/* % */
+
+/* math methods */
+/* calc()
+max()
+min() */
+
+
